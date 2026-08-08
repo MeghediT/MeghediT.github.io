@@ -3,7 +3,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Meghedi Tarvirdians"
 title_separator          : "-"
-name                     : &name "Meghedi Tarvirdians"
+name                     : &name "English Teacher"
 description              : "English teacher based in Armenia."
 url                      : https://meghedit.github.io
 baseurl                  : ""
