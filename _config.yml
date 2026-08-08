@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "English Teacher"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "English Teacher"
 description              : "English teacher based in Armenia."
