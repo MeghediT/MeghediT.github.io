@@ -14,7 +14,7 @@ author:
   avatar           : "profile.png"
   name             : "Meghedi Tarvirdians"
   pronouns         : "she/her"
-  bio              : "English Teacher"
+  # bio              : "English Teacher"
   location         : "Armenia"
   email            : "tarverdian.mt@gmail.com"
   uri              : "https://www.italki.com/en/teacher/her-profile-link"
