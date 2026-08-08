@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "About Me"
+title: "Meghedi Tarvirdians"
+description: "English teacher in Armenia. Exam prep, academic writing, and conversation practice."
 author_profile: true
 ---
-
 Hi, I'm Meghedi, an English teacher based in Armenia.
 
 I help students build real confidence in English, whether they're preparing for an exam, sharpening their academic writing, or simply want to speak more fluently in everyday conversation.
