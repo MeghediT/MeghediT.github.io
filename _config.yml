@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Meghedi Tarvirdians"
+title                    : "English Teacher"
 title_separator          : "-"
 name                     : &name "English Teacher"
 description              : "English teacher based in Armenia."
